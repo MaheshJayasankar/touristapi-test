@@ -1,0 +1,64 @@
+{
+  "status": "ok",
+  "items": [
+    {
+      "name": "Marina Beach",
+      "description": "Recreational shoreline with food vendors",
+      "rating": 4.3,
+      "reviews": 39964,
+      "visitor_comments": [
+        {
+          "comment": "Marina beach in Chennai along the Bay of Bengal is India's longest and world's second longest beach."
+        },
+        {
+          "comment": "The Long stretches of sandy beach is a sight to behold."
+        },
+        {
+          "comment": "It'd be great to visit for an early morning sunrise or an evening sunset."
+        }
+      ],
+      "details": "Marina Beach is a natural urban beach in Chennai, Tamil Nadu, India, along the Bay of Bengal. The beach runs from near Fort St. George in the north to Foreshore Estate in the south, a distance of 6.0 km, making it the longest natural urban beach in the country. The Marina is primarily sandy, unlike the short, rocky formations that make up the Juhu Beach in Mumbai. The average width of the beach is 300 m and the width at the widest stretch is 437 m. Bathing and swimming at the Marina Beach are legally prohibited because of the dangers, as the undercurrent is very turbulent. It is one of the most crowded beaches in the country and attracts about 30,000 visitors a day during weekdays and 50,000 visitors a day during the weekends and on holidays. During summer months, about 15,000 to 20,000 people visit the beach daily.",
+      "wiki_url": "https://en.wikipedia.org/wiki/Marina_Beach",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Chennai_-_bird%27s-eye_view.jpg/1024px-Chennai_-_bird%27s-eye_view.jpg"
+    },
+    {
+      "name": "Fort St. George",
+      "description": "Fort dating to 1644 with museum & church",
+      "rating": 4.2,
+      "reviews": 3985,
+      "visitor_comments": [
+        {
+          "comment": "Actually it is one of the oldest Fort in India"
+        },
+        {
+          "comment": "Towards the end of the 17th century, the East India Company was established by the British."
+        }
+      ],
+      "details": "Fort St George is the first English fortress in India, founded in 1639 at the coastal city of Madras, the modern city of Chennai. The construction of the fort provided the impetus for further settlements and trading activity, in what was originally an uninhabited land. Thus, it is a feasible contention to say that the city evolved around the fortress. The fort currently houses the Tamil Nadu legislative assembly and other official buildings.",
+      "wiki_url": "https://en.wikipedia.org/wiki/Fort_St._George,_India",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fort_St._George%2C_Chennai_2.jpg/1024px-Fort_St._George%2C_Chennai_2.jpg"
+    },
+    {
+      "name": "Government Museum",
+      "description": "Bronzes, Indian art & a children's area",
+      "rating": 4.3,
+      "reviews": 10059,
+      "visitor_comments": [
+        {
+          "comment1": {
+            "comment": "The art gallery houses Raja Ravi Varma paintings and Tanjore paintings in addition to modern art."
+          },
+          "comment2": {
+            "comment": "It's a well curated museum with a huge collection."
+          },
+          "comment3": {
+            "comment": "A nice place to learn about the marvels of ancient South Indian culture and heritage."
+          }
+        }
+      ],
+      "details": "The Government Museum, Chennai, or the Madras Museum, is a museum of human history and culture located in the Government Museum Complex in the neighbourhood of Egmore in Chennai, India. Started in 1851, it is the second oldest museum in India after the Indian Museum in Kolkata and is the tenth oldest Museum in the World. It is particularly rich in archaeological and numismatic collections. It has the largest collection of Roman antiquities outside Europe. Among them, the colossal Museum Theatre is one of the most impressive. The National Art Gallery is also present in the museum premises. Built in Indo-Saracenic style, it houses rare European and Asian painting of renowned artists, including that of Raja Ravi Varma. It is the third largest museum in the world, and with 0.6 million visitors in 2018. It has the richest collections of bronze idols, 500 of them dating to 1000 BCE, in Asia.",
+      "wiki_url": "https://en.wikipedia.org/wiki/Government_Museum,_Chennai",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Madras_museum_theatre_in_October_2007.jpg/1024px-Madras_museum_theatre_in_October_2007.jpg"
+    }
+  ]
+}

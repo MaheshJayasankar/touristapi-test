@@ -1,0 +1,64 @@
+{
+  "status": "ok",
+  "items": [
+    {
+      "name": "Cherai Beach",
+      "description": "Swimming, dolphins & shell collecting",
+      "rating": 4.4,
+      "reviews": 8621,
+      "visitor_comments": [
+        {
+          "comment": "We can enjoy the beach view and sunset and sunrises with in the permissible limit."
+        },
+        {
+          "comment": "Cherai beach is located on the northern part of Kochi at the border of Thrissur district."
+        },
+        {
+          "comment": "Wonderful beach in kochi where you can find clean beach and sea ."
+        }
+      ],
+      "details": "Cherai Beach is a beach located in Cherai in the northern side of Vypin Island, a suburb of the city Kochi in the state of Kerala, India. One of the most visited beaches in the state, it is situated at around 25 km from downtown Kochi and 20 km from Cochin International Airport.",
+      "wiki_url": "https://en.wikipedia.org/wiki/Cherai_Beach",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Sunrise_at_Cherai_Beach.jpg"
+    },
+    {
+      "name": "Mattancherry Palace",
+      "description": "Palace built by the Portuguese in 1555",
+      "rating": 4.1,
+      "reviews": 8609,
+      "visitor_comments": [
+        {
+          "comment": "There is a small temple situated inside ground floor.Still there is Poojas and prayers are going on."
+        },
+        {
+          "comment": "Good cleanliness, well displayed artifacts with lots of infographic displays."
+        }
+      ],
+      "details": "The Mattancherry Palace is a Portuguese palace popularly known as the Dutch Palace, in Mattancherry, Kochi, in the Indian state of Kerala which features Kerala murals depicting portraits and exhibits of the Rajas of Kochi. The palace was included in the \"tentative list\" of UNESCO World Heritage Site.",
+      "wiki_url": "https://en.wikipedia.org/wiki/Mattancherry_Palace",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mattancherry_Palace_DSC_0899.JPG/1024px-Mattancherry_Palace_DSC_0899.JPG"
+    },
+    {
+      "name": "Hill Palace Museum",
+      "description": "Historical complex with museums & parks",
+      "rating": 4.3,
+      "reviews": 11038,
+      "visitor_comments": [
+        {
+          "comment1": {
+            "comment": "You can also see the deer park and various types of painting inside the campus."
+          },
+          "comment2": {
+            "comment": "Cherai beach is located on the northern part of Kochi at the border of Thrissur district."
+          },
+          "comment3": {
+            "comment": "Dear Park and Children's play area are some of the attractions here."
+          }
+        }
+      ],
+      "details": "Hill Palace is an archaeological museum and palace located in the Tripunithura neighbourhood of Kochi city in the Indian state of Kerala. It is the largest archeological museum in the state and was the imperial administrative office and official residence of the Cochin Maharaja. Built in 1865, the palace complex consists of 49 buildings in the traditional architectural style, spreading across 54 acres. The complex has an archaeological museum, a heritage museum, a deer park, a pre-historic park and a children’s park. The campus of the museum is home to several rare species of medicinal plants. Presently the palace has been converted into a museum by The Kerala State Archaeology Department and is open to public. The palace is about 10 kilometres from the city centre and is approachable by road and rail. The Centre for Heritage Studies, an autonomous research and training institute set up by the Department of Cultural Affairs, Government of Kerala also functions at the site. CHS is designated as the 'Manuscript Conservation Centre' and Manuscript Resource Centre by the National Mission for Manuscripts.",
+      "wiki_url": "https://en.wikipedia.org/wiki/Hill_Palace,_Tripunithura",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hill_Palace_Cochin_%2824176740822%29.jpg/1024px-Hill_Palace_Cochin_%2824176740822%29.jpg"
+    }
+  ]
+}
